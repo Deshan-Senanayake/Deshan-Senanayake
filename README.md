@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science, ML, 3D modling and video game developing.
 - 💞️ I’m looking to collaborate with those who dream big and chase their dreams.
 - 📫 How to reach me : smddsenyake@gmail.com
-- ⚡ Fun fact: Have a werid dream to develop a video game that gonna become the GOTY.
+
 
 <!---
 Deshan-Senanayake/Deshan-Senanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
