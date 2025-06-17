@@ -93,7 +93,9 @@ Miro, Figma (for UI/UX planning), Canva, Notion
 ## 💬 Let's Connect!
 
 📧 **Email:** smddsenyake@gmail.com  
+
 🔗 **LinkedIn:** [linkedin.com/in/deshan-senanayake](https://www.linkedin.com/in/deshan-senanayake-7a0695292/)
+
 📁 **Portfolio Projects:** [github.com/Deshan-Senanayake](https://github.com/Deshan-Senanayake)
 
 ---
